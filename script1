@@ -1,0 +1,38 @@
+valorhora=4
+dias=30
+horastrabalho=8
+vencimentomensal=valorhora*dias*horastrabalho
+print(vencimentomensal)
+nome="tiago"
+print(nome)
+
+num1=10
+num2=10
+num3=10
+resultado=num1+num2+num3
+print(resultado)
+
+nome="Pedro Henrique"
+print(nome)
+print[0:6]
+"t" in nome
+
+lista=[1,2,3,4,"Pedro"]
+print(lista)
+lista.append("Python")
+print(lista)
+lista.append(20)
+print(lista)
+lista.index("Pedro")
+lista.count(4)
+lista.remove("Python")
+lista.remove("4")
+lista.reverse()
+print(lista)
+lista2=[1,4,2,9,14,17,13]
+lista2.sort()
+print(lista2)
+
+telefones="tiago":9999999, "marta":88888888)
+telefones["rita"]=77777777777777
+del telefones["Rita"]
